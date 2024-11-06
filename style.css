@@ -1,0 +1,9 @@
+html{
+    overflow: auto;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+}
+* {
+    margin: 0;
+    padding: 0;
+}

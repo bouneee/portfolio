@@ -1,0 +1,30 @@
+.block{
+    width: 220px;
+    display: flex;
+    margin: 150px auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+.block input{
+    width: 220px;
+    height: 35px;
+    font-size: 17px;
+}
+.btn2{
+    width: 52px;
+    height: 38px;
+    text-align: center;
+    padding-top: 17px;
+    background-color: rgba(163, 151, 253, 0.651);
+    margin-top: 4px;
+}
+.btn{
+    width: 52px;
+    height: 38px;
+    text-align: center;
+    padding-top: 17px;
+    margin-top: 3px;
+    background-color: rgb(242, 242, 242);
+}
